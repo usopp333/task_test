@@ -1,3 +1,4 @@
+// 对于Qt的学习
 #include "stdafx.h"
 #include "myclass.h"
 #include <QtWidgets/QApplication>
@@ -6,6 +7,7 @@
 #include <QSlider>
 #include <QSpinBox>
 #include <QHBoxLayout>
+
 // //1.1 hello qt
 // int main(int argc, char *argv[])
 // {
